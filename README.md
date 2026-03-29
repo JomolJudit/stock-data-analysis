@@ -68,6 +68,15 @@ Then open each lab notebook in order.
 
 ---
 
+## Dashboard Previews
+
+After running Lab 3, the following chart snapshots will be saved in your project folder:
+
+| Stock | Chart |
+|-------|-------|
+| Tesla | ![Tesla Dashboard](tesla_dashboard.png) |
+| GameStop | ![GameStop Dashboard](gamestop_dashboard.png) |
+
 ## Key Concepts Demonstrated
 
 - Fetching financial data from REST APIs
