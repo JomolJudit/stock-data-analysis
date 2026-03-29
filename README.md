@@ -54,8 +54,8 @@ A three-part data science project that demonstrates how to extract, process, and
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/JomolJudit/stock-data-analysis.git
+cd stock-data-analysis
 
 # Install dependencies
 pip install yfinance requests bs4 html5lib lxml pandas plotly matplotlib
